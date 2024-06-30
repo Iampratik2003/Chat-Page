@@ -1,3 +1,2 @@
-
-![Screenshot (272)](https://github.com/Iampratik2003/Chat-Page/assets/137315723/682deace-e38c-4cf0-88af-1e3ada1e2f09)
-![Screenshot (273)](https://github.com/Iampratik2003/Chat-Page/assets/137315723/da3d3374-c210-4c21-b79d-c30c141170c1)
+![Screenshot (275)](https://github.com/Iampratik2003/Chat-Page/assets/137315723/7ad172e8-aa9f-441d-a523-1186e72d9f28)
+![Screenshot (274)](https://github.com/Iampratik2003/Chat-Page/assets/137315723/439bdfaf-4b7a-47ce-95fe-0a0ce1196463)
