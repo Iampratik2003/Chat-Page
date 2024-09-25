@@ -1,11 +1,3 @@
-Name - Pratik Nand,
-Company - CODETECH IT SOLUTIONS,
-ID - CT08DS32,
-Domain - Web Development,
-Duration - 1 June to 13 July,
-Mentor - G. Sravani,
-
-TASK 1 :
 Project Overview :
 
 I developed a real-time Chat-Page with an Express.js backend and a React frontend, designed to support both one-on-one and group chats. The backend was built using Express.js and MongoDB, while the frontend utilized React and Chakra UI for a modern and responsive user interface.
